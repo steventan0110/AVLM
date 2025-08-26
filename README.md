@@ -24,7 +24,6 @@ AVLM/
 │   ├── avlm_avsr/ # folder for fine-tuning AVLM to perform AVSR task
 │   ├── avlm_emo/ # folder for fine-tuning AVLM for expressive speech generation
 │   ├── global.sh # config script for paths
-
 ├── src/                     # Core source code
 │   ├── data_utils/          # Data loading and preprocessing
 │   ├── models/              # Customized SpiritLM model 
